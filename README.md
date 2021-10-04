@@ -1,6 +1,5 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-aizi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrespedes12/)](https://www.linkedin.com/in/aizi/)
-[![Github Badge](https://img.shields.io/badge/-nightriddler-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nightriddler/)](https://www.github.com/nightriddler/)
 ![Profile views](https://gpvc.arturio.dev/nightriddler)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
