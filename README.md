@@ -13,4 +13,3 @@
 
 
 ![Eisenberg github stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=nightriddler&theme=dracula&hide=contribs)
-![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=nightriddler&layout=compact&theme=dracula)
